@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructVeriYapisiDegerTipi_4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassYapisi_5", "ClassYapisi\ClassYapisi_5.csproj", "{CA1E91AD-4676-4C0C-8AB5-D9E253490902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizilerVeAlternatifDiziOlusturmaYaklasimlari", "DizilerVeAlternatifDiziOlusturmaYaklasimlari\DizilerVeAlternatifDiziOlusturmaYaklasimlari.csproj", "{12D28D80-2128-4E20-B8C5-B57961513EFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DizilerVeAlternatifDiziOlusturmaYaklasimlari_6", "DizilerVeAlternatifDiziOlusturmaYaklasimlari\DizilerVeAlternatifDiziOlusturmaYaklasimlari_6.csproj", "{12D28D80-2128-4E20-B8C5-B57961513EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable_7", "Hashtable\Hashtable_7.csproj", "{96F10808-B887-4D0A-9FD7-A67CAEED61D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{12D28D80-2128-4E20-B8C5-B57961513EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D28D80-2128-4E20-B8C5-B57961513EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D28D80-2128-4E20-B8C5-B57961513EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F10808-B887-4D0A-9FD7-A67CAEED61D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F10808-B887-4D0A-9FD7-A67CAEED61D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F10808-B887-4D0A-9FD7-A67CAEED61D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F10808-B887-4D0A-9FD7-A67CAEED61D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
